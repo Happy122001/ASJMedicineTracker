@@ -49,6 +49,7 @@ We have followed Model View View Model architecture to construct our application
 
 - [@Harsh Dhar Agarwal](https://github.com/hd-agarwal)
 - [@Parth Johri](https://github.com/ParthJohri)
+- [@happy Lamba](https://github.com/Happy122001)
 - [@Prince Mendiratta](https://github.com/Prince-Mendiratta)
 - [@Varin Thakur](https://github.com/VarinThakur)
 
